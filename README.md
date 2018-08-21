@@ -1,2 +1,2 @@
-# MandarinSolutionsBot
-Allows to you receive Observium notifications right in the Telegram
+# EventBot
+Allows to you receive notifications right in the messengers
